@@ -1,0 +1,37 @@
+body {
+  font-family: "VT323", monospaced;
+  background-color: #edede9;
+  color: #606c38;
+}
+
+h1, h2, h3, h4, h5, h6, h7
+{
+font-weight: normal;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2, h3, h4, h5, h6, h7
+{
+text-align: left;
+}
+
+hr {
+  width: 1050px;
+}
+ul {
+  text-align: left;
+}
+
+ol{
+  text-align: left;
+}
+
+div.box {
+  width: 290px;
+  border: 2px solid #606c38;
+  padding: 10px;
+  margin: 20px;
+}
